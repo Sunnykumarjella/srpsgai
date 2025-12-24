@@ -1,0 +1,7 @@
+{
+  "name": "SmartPass - Institutional Travel Management",
+  "description": "A comprehensive digital solution for students to apply for travel passes, with multi-level verification from faculty and administrators, featuring automated PDF pass generation and smart verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
